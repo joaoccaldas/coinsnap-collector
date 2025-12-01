@@ -1,0 +1,7 @@
+{
+  "name": "CoinSnap Collector",
+  "description": "Identify, value, and track your coin collection using AI-powered image analysis.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
